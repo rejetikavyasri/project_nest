@@ -4,3 +4,4 @@ for i in range (a):
         print("#",end=" ")
     print()
 print("Done")
+print("This is a simple pattern printing program.")
